@@ -5,3 +5,5 @@ This form was done with
 * HTML
 * CSS
 * Bootstrap
+
+This app can be started using "npm start"
